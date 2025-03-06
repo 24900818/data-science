@@ -81,7 +81,6 @@ Step 5:  Save or export the filtered data if needed.
 ![image](https://github.com/user-attachments/assets/4a2e1a29-8e2a-4a08-8ab0-fe9cc029a589)
 
 
-
 # Result
-
+Filtered the given data by the above questions or commands.
 
